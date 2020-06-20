@@ -1,0 +1,82 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgb(242, 242, 242);
+}
+header{
+    padding: 0%;
+    margin: 30px auto 0 auto;
+}
+header a{
+    color: #F8F8FF;
+    text-decoration:none;
+}
+header .selected{
+    color: BurlyWood;
+}
+header .nav ul{
+    width: 1260px;
+    list-style: none;
+    text-align: center;
+    padding: 5px 0px;
+    margin:  0 auto;
+    background-color:  #444;
+}
+header .nav ul li{
+    vertical-align: middle;
+    display: inline;
+    padding: 0 60px;
+    font-size: 25px;
+}
+header .nav ul span{
+    color: #444;
+}
+header .logo{
+    width: 1260px;
+    text-align: center;
+    margin: 10px auto 0 auto;
+}
+header img{
+    margin: 0px auto;
+    width: 120px;
+}
+.main_1{
+    width: 1260px;
+    margin: 0 auto;
+    text-align: center;
+}
+.pic{
+    margin: 0px auto;
+    width: 1260px;
+    height: 700px;
+    background-image: url(../img/introduce.png);
+    background-size: 95%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.next{
+    margin: 15px auto;
+    padding: auto;
+    width:250px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.8)
+}
+.next a{
+    color: #F8F8FF;
+    line-height: 50px;
+    font-size: 20px;
+    text-decoration:none;
+}
+.next a #me{
+    color: wheat;
+}
+footer{
+    width: 1260px;
+    margin: 40px auto;
+    padding: 10px;
+    border-top: solid;
+    border-width: 1px;
+    border-color: #444;
+    text-align: center;
+    font-size: 10px;
+}
