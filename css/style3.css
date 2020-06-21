@@ -45,7 +45,7 @@ body{
     flex-direction: column;
     flex-wrap: wrap;
     width: 1260px;
-    height: 2200px;
+    height: 2000px;
     margin: 50px auto;
 }
 .wrapper #wrapper_part_1{
@@ -135,4 +135,7 @@ body{
     font-size: 50px;
     text-align: right;
     margin-right: 100px;
+}
+.next{
+    width: 150px;
 }

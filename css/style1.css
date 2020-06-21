@@ -59,9 +59,11 @@ header img{
     padding: auto;
     width:250px;
     height: 50px;
-    background-color: rgba(0, 0, 0, 0.8)
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
 }
 .next a{
+    margin: auto;
     color: #F8F8FF;
     line-height: 50px;
     font-size: 20px;
