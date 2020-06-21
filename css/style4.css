@@ -39,3 +39,25 @@ p{
     width: 50px;
     height: 30px;
 }
+table{
+    margin: auto;
+    font-size: 25px;
+    border: thin solid black;
+    caption-side: bottom;
+    border-spacing: 0px;
+    caption-side: top;
+    width: 600px;
+}
+td,th{
+    border: thin solid gray;
+    padding: 10px;
+}
+table caption{
+    margin: 15px;
+}
+table .t_left{
+    text-align: left ;
+}
+table td{
+    text-align: center;
+}
